@@ -1,6 +1,6 @@
 # Salut, je suis Charlène 👋
 
-### 🛠️ Stacks
+## 🛠️ Stacks
 - Langages : JavaScript, Java, PHP
 - Frontend: React, Tailwind
 - Backend: Symfony, Node.js, Spring Boot
@@ -9,9 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark)
 
-### 👩‍💻 Faites un tour sur mon portfolio
+## 👩‍💻 Faites un tour sur mon portfolio
 - [C'est juste ici !](https://github.com/trentycha/portfolio)
 
-### 📫 On échange ?
+## 📫 On échange ?
 - trentycharlene@gmail.com
 - [Mon LinkedIn](www.linkedin.com/in/charlène-billat)
