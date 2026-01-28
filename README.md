@@ -14,4 +14,4 @@
 
 ## 📫 On échange ?
 - trentycharlene@gmail.com
-- linkedin.com/in/charlène-billat
+- www.linkedin.com/in/charlène-billat
