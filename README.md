@@ -9,5 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark)
 
+## 👩‍💻 Faites un tour sur mon portfolio
+- https://trentycha.github.io/
+
 ## 📫 On échange ?
-- Email: trentycharlene@gmail.com
+- trentycharlene@gmail.com
+- linkedin.com/in/charlène-billat
