@@ -7,7 +7,7 @@
 - Bases de données: MySQL, MongoDB
 - Outils: Docker, Git, JWT
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trentycha&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark)
 
 ## 📫 On échange ?
 - Email: trentycharlene@gmail.com
