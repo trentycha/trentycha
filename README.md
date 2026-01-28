@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark)
 
 ## 👩‍💻 Faites un tour sur mon portfolio
-- [C'est juste ici !](https://github.com/trentycha/portfolio)
+- [C'est juste ici !](https://trentycha.github.io/)
 
 ## 📫 On échange ?
 - trentycharlene@gmail.com
