@@ -1,6 +1,6 @@
-# Salut 👋 Je suis Charlène !
+# Salut, je suis Charlène 👋
 
-## 🛠️ Technologies
+## 🛠️ Stacks
 - Langages : JavaScript, Java, PHP
 - Frontend: React, Tailwind
 - Backend: Symfony, Node.js, Spring Boot
