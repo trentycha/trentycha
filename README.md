@@ -2,7 +2,7 @@
 
 ## 🛠️ Technologies
 - Langages : JavaScript, Java, PHP
-- Frontend: React
+- Frontend: React, Tailwind
 - Backend: Symfony, Node.js, Spring Boot
 - Bases de données: MySQL, MongoDB
 - Outils: Docker, Git, JWT
