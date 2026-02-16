@@ -7,8 +7,7 @@
 - Bases de données: MySQL, MongoDB
 - Outils: Docker, Git, JWT
 
-![GitHub followers](https://img.shields.io/github/followers/trentycha?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/trentycha?style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark&date=${Date.now()})
 
 ## 👩‍💻 Faites un tour sur mon portfolio
 - [C'est juste ici !](https://trentycha.github.io/)
