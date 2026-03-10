@@ -7,7 +7,7 @@
 - Bases de données: MySQL, MongoDB
 - Outils: Docker, Git, JWT
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark&date=${Date.now()})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trentycha&layout=compact&theme=dark)
 
 ## 👩‍💻 Faites un tour sur mon portfolio
 - [C'est juste ici !](https://trentycha.github.io/)
